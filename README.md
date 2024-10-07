@@ -1,15 +1,14 @@
-[![MasterHead](https://as1.ftcdn.net/v2/jpg/06/48/77/20/1000_F_648772023_aumJWQU1hxeImRIc2wV04IZIP39XjSST.jpg)]
-
+![MasterHead](https://user-images.githubusercontent.com/66934377/223913733-deb1d974-787d-43c4-b60d-eff538aa161e.gif)
 <h1 align="center">Hi 👋, I'm Altamash Ahmad</h1>
 <h3 align="center">Aspiring Web Developer | Eager to Contribute to Open Source | Problem-Solving through Code and Algorithms" This emphasizes both your interest in algorithms and your enthusiasm for contributing to open-source projects!</h3>
-<img align="right" alt="Coding" width="400" src="[https://t3.ftcdn.net/jpg/07/46/00/88/240_F_746008800_1bB33ixQf1Z847m94S4fBhG8JOGEkuZY.jpg])">
 
+</br></br></br>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=fullstack-webdevloper&label=Profile%20views&color=0e75b6&style=flat" alt="fullstack-webdevloper" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=fullstack-webdevloper" alt="fullstack-webdevloper" /></a> </p>
 
 <p align="left"> <a href="https://twitter.com/altamash730" target="blank"><img src="https://img.shields.io/twitter/follow/altamash730?logo=twitter&style=for-the-badge" alt="altamash730" /></a> </p>
-
+<img align="right" alt="Coding" width="400" src="https://t3.ftcdn.net/jpg/02/16/69/04/240_F_216690453_Gr2trrWnvsV1gnwVXIytuu7Xd4EN1YP7.jpg">
 - 🔭 I’m currently working on **Data Structure and Alogrithm**
 
 - 🌱 I’m currently learning **React.js and Python**
