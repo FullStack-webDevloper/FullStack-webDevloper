@@ -1,8 +1,8 @@
-[![MasterHead]https://www.vectorstock.com/royalty-free-vectors/web-development-banner-vectors
+[![MasterHead](https://as1.ftcdn.net/v2/jpg/06/48/77/20/1000_F_648772023_aumJWQU1hxeImRIc2wV04IZIP39XjSST.jpg)]
 
 <h1 align="center">Hi 👋, I'm Altamash Ahmad</h1>
 <h3 align="center">Aspiring Web Developer | Eager to Contribute to Open Source | Problem-Solving through Code and Algorithms" This emphasizes both your interest in algorithms and your enthusiasm for contributing to open-source projects!</h3>
-<img align="right" alt="Coding" width="400" src="[https://cdn.dribbble.com/users/116207...](https://imgs.search.brave.com/maXeiuJXsL1aT_H10E42rXVwHeU_U0KbIj9EHGlRVFw/rs:fit:500:0:0:0/g:ce/aHR0cHM6Ly9pbWcu/ZnJlZXBpay5jb20v/cHJlbWl1bS1waG90/by9kZXZlbG9wZXIt/d29ya2luZy13ZWJz/aXRlLXdpdGgtdmFy/aW91cy13ZWItZGV2/ZWxvcG1lbnQtdG9v/bHMtdGVjaG5vbG9n/aWVzXzExMDQ3NjMt/MTQ0MTUuanBnP3Np/emU9NjI2JmV4dD1q/cGc)">
+<img align="right" alt="Coding" width="400" src="[https://t3.ftcdn.net/jpg/07/46/00/88/240_F_746008800_1bB33ixQf1Z847m94S4fBhG8JOGEkuZY.jpg])">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=fullstack-webdevloper&label=Profile%20views&color=0e75b6&style=flat" alt="fullstack-webdevloper" /> </p>
 
