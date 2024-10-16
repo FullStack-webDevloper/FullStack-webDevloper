@@ -1,6 +1,6 @@
 ![MasterHead](https://user-images.githubusercontent.com/66934377/223913733-deb1d974-787d-43c4-b60d-eff538aa161e.gif)
 <h1 align="center">Hi 👋, I'm Altamash Ahmad</h1>
-<h3 align="center">Aspiring Web Developer | Eager to Contribute to Open Source | Problem-Solving through Code and Algorithms" This emphasizes both your interest in algorithms and your enthusiasm for contributing to open-source projects!</h3>
+<h3 align="center">Aspiring Web Developer | Eager to Contribute to Open Source | Problem-Solving through Code and Algorithms</h3>
 
 </br></br></br>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=fullstack-webdevloper&label=Profile%20views&color=0e75b6&style=flat" alt="fullstack-webdevloper" /> </p>
