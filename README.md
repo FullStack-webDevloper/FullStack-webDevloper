@@ -9,7 +9,7 @@
 
 <p align="left"> <a href="https://twitter.com/altamash730" target="blank"><img src="https://img.shields.io/twitter/follow/altamash730?logo=twitter&style=for-the-badge" alt="altamash730" /></a> </p>
 <img align="right" alt="Coding" width="400" src="https://t3.ftcdn.net/jpg/02/16/69/04/240_F_216690453_Gr2trrWnvsV1gnwVXIytuu7Xd4EN1YP7.jpg">
-- 🔭 I’m currently working on **Data Structure and Alogrithm**
+- 🔭 I’m currently working on **Data Structure and Alogrithm and DevOps**
 
 - 🌱 I’m currently learning **React.js and Python**
 
